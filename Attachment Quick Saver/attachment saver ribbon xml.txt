@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui" onLoad="Ribbon_Load">
+  <ribbon startFromScratch="false">
+    <contextualTabs>
+      <tabSet idMso="TabSetAttachments">
+        <tab idMso="TabAttachments">
+          <group id="GroupMyActions">
+            <button id="ButtonMyAction" label="Check Attachments" />
+          </group>
+        </tab>
+      </tabSet>
+    </contextualTabs>
+  </ribbon>
+</customUI>
+

@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Attachment_Quick_Saver.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SenderEmailAddress" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">DuBourg_7855_RES_Rm_444@slu.edu</Value>
+    </Setting>
+    <Setting Name="button1_path" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Users\schuelkem\OneDrive - Saint Louis University\Classes\SLU-18-19-S\MATH 4850\notes\</Value>
+    </Setting>
+    <Setting Name="button2_path" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Users\schuelkem\Desktop\</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
